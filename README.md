@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/wrawler/Intelligent-traffic-system/media/repo_logo.png">
+    <img src="https://github.com/wrawler/Intelligent-traffic-system/blob/main/media/repo_logo.png">
 </p>
 
 ## Setup 🔌
