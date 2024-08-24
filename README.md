@@ -18,25 +18,25 @@ You are done with the setup 😃
 
 ---
 
-## Contributors
+## Contributors 🤝🏼
 This is a project made by our team 'Syntax Sorcerers' for Smart India Hackathon 2024. The members include:
 
 - Kavish Maniar : [Kman1552](https://github.com/Kman1552)
-- Arnav Inamdar :
-- Yash Kapadia :
+- Arnav Inamdar : [TBNRArnav13](https://github.com/TBNRArnav13)
+- Yash Kapadia : [yakapda42](https://github.com/yakapda42)
 - Vedant Shinde : [rizzlerop](https://github.com/rizzlerop)
 - Arashdeep Singh : [wrawler](https://github.com/wrawler)
 - Vidhi Mehta :
 
 ---
 
-## Future goals
+## Future goals 🎯
 - [ ] Creating an API to make things accesible
 - [ ] Implementing on live moving traffic
 - [ ] Improving on any bugs or limitations
 
 ---
-## Contact
+## Contact ☎️
 For any enquiries or hiring interests, write a mail to `mangoshake5888@gmail.com`
 
 ---
