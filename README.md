@@ -1,6 +1,6 @@
-# Intelligent-traffic-system
-
----
+<p align="center">
+    <img src="/media/repo_logo.png">
+</p>
 
 ## Setup 🔌
 - **Clone the repo to your system or download the zip file**
